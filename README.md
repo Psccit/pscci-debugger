@@ -1,1 +1,1 @@
-# pscci-node
+# pscci-debugger
